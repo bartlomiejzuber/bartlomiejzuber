@@ -10,5 +10,5 @@
   <br>
   And that's my friendly dog Milka.<br>
   <br>
-  <img src="https://github.com/bartlomiejzuber/bartlomiejzuber/blob/master/milka.JPG" width="350" /> -->
+  <img src="https://github.com/bartlomiejzuber/bartlomiejzuber/blob/master/milka.JPG" width="350" />
 </p>
