@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**bartlomiejzuber/bartlomiejzuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm Bart.<br> I'm a fullstack Developer from Poland.<br><br>#typescript #javascript #reactjs #nodejs #material-ui</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+<!--   <br>
+  And that's my dog.<br>
+  <br>
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" /> -->
+</p>
