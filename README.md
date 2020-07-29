@@ -7,8 +7,8 @@
   <br>
   <br>
   <br>
-<!--   <br>
-  And that's my dog.<br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" /> -->
+  And that's my friendly dog Milka.<br>
+  <br>
+  <img src="https://github.com/bartlomiejzuber/bartlomiejzuber/blob/master/milka.JPG" width="350" /> -->
 </p>
