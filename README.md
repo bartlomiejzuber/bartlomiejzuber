@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Bart.<br> I'm a fullstack Developer from Poland.<br><br>#typescript #javascript #reactjs #nodejs #material-ui</samp>
+  <samp>Hello there. I'm Bart.<br> I'm a software developer from Poland.<br><br>#python #csharp #java #tsc #js #deno #nodejs #k8s #docker #reactjs #vue #solid</samp>
   <br>
   <br>
   <br>
